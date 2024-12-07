@@ -9,7 +9,7 @@ This repository contains a resume template for software engineers. The repositor
 
 1. Clone the repository to your computer:
     ```bash
-    git clone https://github.com/your-username/ResumeTemplate.git
+    git clone https://github.com/saajann/ResumeTemplate.git
     ```
 2. Open the `template.tex` file with your preferred LaTeX editor or upload it to [Overleaf](https://www.overleaf.com/).
 3. Edit the content of the `template.tex` file with your personal information.
